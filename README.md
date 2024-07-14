@@ -11,5 +11,5 @@ Este repositorio contiene una colección de ejercicios de SQL realizados como pa
 
 ## Estructura del Repositorio
 
-El repositorio está organizado en carpetas según el tipo de ejercicio:
+El repositorio está organizado en carpetas separadas por niveles de dificultad, desde básico hasta avanzado.
 
