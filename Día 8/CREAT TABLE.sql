@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS Departamentos(
+	depto_id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    ubicacion VARCHAR(255) NOT NULL
+)
